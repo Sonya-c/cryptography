@@ -1,3 +1,19 @@
 [submodule "AES_key_recovery"]
     path = AES_key_recovery
     url = git@github.com:sonya-c/AES_key_recovery.git
+
+[submodule "cripto-hash-craking"]
+    path = cripto-hash-craking
+    url = git@github.com:sonya-c/cripto-hash-craking.git
+
+[submodule "cryptographic-hash-function"]
+    path = cryptographic-hash-function
+    url = git@github.com:sonya-c/cryptographic-hash-function.git
+
+[submodule "public-key-cryptography"]
+    path = public-key-cryptography
+    url = git@github.com:sonya-c/public-key-cryptography.git
+
+[submodule "symmetric-ciphers"]
+    path = symmetric-ciphers
+    url = git@github.com:sonya-c/symmetric-ciphers.git
